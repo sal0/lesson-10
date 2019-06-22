@@ -1,0 +1,14 @@
+.box{
+	background-color: blue;
+	padding: 20px;
+	display: flex;
+	justify-content: space-around;
+	height: 500px;
+	align-items: flex-end;
+}
+.childbox{
+	height: 100px;
+	width: 100px;
+	background-color: yellow;
+	margin: 10px;
+}
