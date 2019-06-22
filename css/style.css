@@ -11,4 +11,29 @@
 	width: 100px;
 	background-color: yellow;
 	margin: 10px;
+	text-align: center;
+	display: flex;
+	
+}
+.box1{
+	background-image: url(../image/1.jpg);
+	height: 600px;
+	width: 600px;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	display: flex;
+	align-items: center;
+
+}
+.title{
+	font-size: 40px;
+	color: #fff;
+	background-color: red;
+
+}
+.wrapper{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
 }
